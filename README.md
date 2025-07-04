@@ -8,8 +8,8 @@ I’m a passionate Full‑Stack Engineer with over 3 years of professional exper
 
 * 🌍  I'm based in Astana, Kazakhstan
 * ✉️  You can contact me at [adilet.toktybay@gmail.com](mailto:adilet.toktybay@gmail.com)
-* 🎓  Master of Technical Sciences in the field of Media Technologies
-* 📚  Bachelor of Science in Information and Communication Technologies in the field of Computer Science
+* 🎓  Master of Technical Sciences in the field of Media Technologies
+* 📚  Bachelor of Science in Information and Communication Technologies in the field of Computer Science
 
 ### Skills
 
