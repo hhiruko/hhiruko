@@ -10,6 +10,7 @@ I’m a passionate Full‑Stack Engineer with over 3 years of professional exper
 * ✉️  You can contact me at [adilet.toktybay@gmail.com](mailto:adilet.toktybay@gmail.com)
 * 🎓  Master of Technical Sciences in the field of Media Technologies
 * 📚  Bachelor of Science in Information and Communication Technologies in the field of Computer Science
+* Pfp: https://www.instagram.com/supsaka/
 
 ### Skills
 
