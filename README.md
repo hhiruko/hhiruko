@@ -6,6 +6,7 @@ Software Engineer
 
 I’m a passionate Full‑Stack Engineer with over 3 years of professional experience designing, developing, and scaling production-grade applications. I specialize in PHP and JS, and I'm also comfortable working with Python, C++, Java and Rust. I enjoy working across the stack from writing backend and frontend code to configuring servers, managing deployments, and optimizing runtime performance.
 
+* 🌐  My Website [adilet.dev](https://adilet.dev/)
 * 🌍  I'm based in Astana, Kazakhstan
 * ✉️  You can contact me at [adilet.toktybay@gmail.com](mailto:adilet.toktybay@gmail.com)
 * 🎓  Master of Technical Sciences in the field of Media Technologies
