@@ -23,4 +23,35 @@ I’m a passionate Full‑Stack Engineer with over 3 years of professional exper
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/hhiruko" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/atoktybay" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<p align="left">
+  <a href="https://www.github.com/hhiruko" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/atoktybay" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+    </picture>
+  </a>
+</p>
+
+### Projects
+
+- **Water.css (Fork)** — A drop-in collection of CSS styles to make simple websites nicer. Custom fork by hhiruko. Original by Kognise. [Demo](https://hhiruko.github.io/water.css/) | [Repo](https://github.com/hhiruko/water.css)  
+- **Mathbook** — A simple math notebook PWA for writing and exploring mathematical equations. [Live](https://hhiruko.github.io/mathbook/) | [Repo](https://github.com/hhiruko/mathbook)  
+- **Custom Workout Logger** — A lightweight, static PWA for logging, tracking, and analyzing fitness progress. [Live](https://hhiruko.github.io/custom-workout-logger/) | [Repo](https://github.com/hhiruko/custom-workout-logger)  
+- **Epicteti Enchiridion** — A lightweight, distraction-free PWA version of Epictetus’ Enchiridion with offline support. [Live](https://hhiruko.github.io/enchiridion/) | [Repo](https://github.com/hhiruko/enchiridion)  
+- **Personal Site** — A simple static placeholder while the full site is under development. [Live](https://adilet.dev/) | [Repo](https://github.com/hhiruko/site-placeholder)  
+- **To-do** — A simple to-do list PWA. [Live](https://hhiruko.github.io/to-do/) | [Repo](https://github.com/hhiruko/to-do)  
+- **Static PWA Template** — A minimal, fast, and customizable static PWA template. [Public Template] | [Repo](https://github.com/hhiruko/static-pwa-template)  
+- **Yii 2 + Preact** — Proof-of-concept project showing integration of Yii 2 with Preact (Vite, Inertia.js). [Repo](https://github.com/hhiruko/yii2-preact)  
+- **PHP Components** — Proof-of-concept for component rendering in PHP inspired by JSX. [Repo](https://github.com/hhiruko/php-components)  
+- **Daily Programmer Challenges** — JavaScript and Node.js solutions to programming challenges. [Repo](https://github.com/hhiruko/js-challenges)  
+- **Estus Power Applet** — Custom Dark Souls–themed tray icon for Cinnamon’s `power` applet. [Repo](https://github.com/hhiruko/estus-power-applet)  
+- **Grass Crest Shield Firewall Applet** — Custom Dark Souls–themed tray icon for Cinnamon’s `firewall-applet`. [Repo](https://github.com/hhiruko/grass-crest-shield-firewall-applet)  
+- **English Garden** — SRS-based English vocabulary learning app. [Public Archive] | [Repo](https://github.com/hhiruko/english-garden-os)
